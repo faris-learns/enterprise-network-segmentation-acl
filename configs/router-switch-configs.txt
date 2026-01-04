@@ -104,6 +104,8 @@ line vty 0 4
 !
 !
 end
+
+
 ===== SWITCH CONFIG =====
 Switch#show running-config
 Building configuration...
